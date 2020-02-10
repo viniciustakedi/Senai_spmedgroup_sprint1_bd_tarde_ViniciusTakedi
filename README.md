@@ -1,2 +1,0 @@
-# Senai_spmedgroup_sprint1_bd_tarde_ViniciusTakedi
-Trabalho avaliativo sprint1
