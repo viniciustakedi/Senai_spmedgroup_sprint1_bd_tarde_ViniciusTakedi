@@ -24,7 +24,7 @@ SELECT Medico.NomeMedico, Especialidade.NomeEspecialidade  FROM Medico
 INNER JOIN Especialidade ON Medico.IdEspecialidade = Especialidade.IdEspecialidade
 WHERE Especialidade.IdEspecialidade = @ID
 
-EXECUTE MedicoEspecialidade 2
+EXECUTE MedicoEspecialidade 1
 
 --Procedure para calcular a idade de um Usuario
 CREATE PROCEDURE IdadeUsuario 
